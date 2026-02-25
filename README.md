@@ -1,4 +1,4 @@
-# Hi, I'm S. Padmanabhan 👋
+# Hi, I'm Padmanabhan.S 👋
 
 🎓 CSE Student | 💻 Aspiring AI Engineer  
 📍 India  
