@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm S. Padmanabhan 👋
 
-<!--
-**Padmanabhan-2007/Padmanabhan-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 💻 Aspiring AI Engineer  
+📍 India  
+🚀 Currently building AI + Backend Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Languages: C, Java, Python
+- Web: React, Tailwind
+- Backend: FastAPI, Node.js
+- Tools: Git, VS Code
+
+---
+
+## 🚀 Featured Projects
+🔹 SAR Narrative Generator (AI + Compliance)  
+🔹 Mini ML Projects  
+🔹 DAA Algorithm Implementations  
+
+---
+
+## 📊 GitHub Stats
