@@ -2,7 +2,7 @@
 <h3 align="center">AI & Backend Engineer in Progress 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Backend+Architecture+Enthusiast;Problem+Solver;CSE+Core+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Backend+Architecture+Enthusiast;Problem+Solver;CSE+Core+Student" />
 </p>
 
 ---
