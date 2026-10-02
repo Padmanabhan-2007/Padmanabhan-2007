@@ -1,43 +1,45 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:0EA5E9&text=Padmanabhan.S&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%20%7C%20Backend%20%7C%20Systems&descAlignY=62&descSize=17" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+AI-powered+applications;Designing+backend+systems;Learning+DSA+%26+system+design;Turning+ideas+into+real+products" />
+
+<br><br>
+
 <a href="https://github.com/Padmanabhan-2007">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=190&section=header&text=Padmanabhan.S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<h2>Computer Science Student • AI • Backend • Systems</h2>
+<a href="https://www.linkedin.com/in/padmanabhan2007/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-<p>
-  <a href="https://github.com/Padmanabhan-2007">
-    <img src="https://komarev.com/ghpvc/?username=Padmanabhan-2007&label=Profile%20Views&color=0ea5e9&style=flat-square" />
-  </a>
-  <a href="https://github.com/Padmanabhan-2007?tab=followers">
-    <img src="https://img.shields.io/github/followers/Padmanabhan-2007?label=Followers&style=flat-square&color=0ea5e9" />
-  </a>
-  <a href="https://github.com/Padmanabhan-2007?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Padmanabhan-2007?label=Stars&style=flat-square&color=0ea5e9" />
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Designing+backend+systems;Learning+DSA+%26+system+design;Turning+ideas+into+working+products" />
+<a href="mailto:padhusrini2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm **Padmanabhan S**, a Computer Science Engineering student focused on building practical software systems.
+I'm **Padmanabhan S**, a Computer Science Engineering student interested in building practical software systems that combine **AI, backend engineering and modern web technologies**.
 
-My current interests are centered around:
+I enjoy working across the stack, from designing application architecture and databases to building interfaces and integrating intelligent features.
 
-- Artificial Intelligence & Machine Learning
-- Backend Engineering
-- API & Application Architecture
-- Data Structures & Algorithms
-- System Design
-- Real-world product development
+### Current Focus
 
-I enjoy taking an idea from **problem → architecture → implementation → deployment**.
+```text
+Artificial Intelligence
+Backend Engineering
+Data Structures & Algorithms
+System Design
+Database Architecture
+Full-Stack Development
+```
 
 ---
 
@@ -46,132 +48,127 @@ I enjoy taking an idea from **problem → architecture → implementation → de
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
 </p>
 
-### Backend & Web
+### Web & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind" />
 </p>
 
-### Database & Tools
+### Databases & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,postman" />
 </p>
 
-### AI / Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+### AI & Data
 
 <p>
-  NumPy • Pandas • Scikit-learn • Machine Learning • Deep Learning
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
+
+`NumPy` · `Pandas` · `Scikit-learn` · `Machine Learning` · `Deep Learning`
 
 ---
 
-## Featured Projects
+## Selected Work
 
-<table>
-<tr>
-<td width="50%">
+### ABI FLOW
 
-### ⚡ FitSmart
+Corporate web platform developed for **ABI Flow Products (P) Ltd.**
 
-A fitness-focused application designed around personalized workout and nutrition planning.
+Focused on creating a modern product-oriented web experience with structured content, responsive interfaces, product presentation, company information and interactive UI elements.
 
-**Focus:** Java • MySQL • Application Development
+**Focus:** `Next.js` `React` `TypeScript` `Modern UI`
+
+---
+
+### VoiceSave
+
+A voice-focused application built around capturing and working with voice-based content.
+
+The project explores practical application development around speech, user interaction and modern web experiences.
+
+**Focus:** `AI / Voice` `Web Development` `Application Design`
+
+---
+
+### FitSmart
+
+A fitness application centered around personalized **workout and nutrition planning**.
+
+Built as a practical software project combining application logic, database integration and user-focused workflows.
+
+**Focus:** `Java` `MySQL` `Application Development`
 
 <a href="https://github.com/Padmanabhan-2007/FitSmart">
-  <img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-0F172A?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-</td>
+---
 
-<td width="50%">
+### SAR Narrative Generator
 
-### 🧠 SAR Narrative Generator
+An AI-oriented compliance application focused on generating structured narratives and maintaining an auditable workflow.
 
-AI-powered compliance workflow focused on automating narrative generation while maintaining structured audit information.
-
-**Focus:** AI • Web Applications • Backend Systems
+**Focus:** `AI` `JavaScript` `Backend` `Automation`
 
 <a href="https://github.com/Padmanabhan-2007/barclays-sar-app">
-  <img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-0F172A?style=flat-square&logo=github&logoColor=white" />
 </a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔍 Algorithm Visualizer
-
-A DAA-focused project designed to make algorithm execution easier to understand through visual and step-by-step representation.
-
-**Focus:** Algorithms • Data Structures • Visualization
-
-</td>
-
-<td width="50%">
-
-### 🔐 Authentication Systems
-
-Exploring authentication architecture, authorization flows, JWT-based security and structured application logging.
-
-**Focus:** Backend • Security • System Design
-
-</td>
-</tr>
-</table>
 
 ---
 
-## What I'm Building
+## Engineering Interests
 
 ```text
-AI Systems
-   ↓
-Backend Architecture
-   ↓
-Data & Algorithms
-   ↓
-Production-ready Applications
+AI
+ ├── Machine Learning
+ ├── Intelligent Applications
+ └── AI-assisted Systems
+
+Backend
+ ├── APIs
+ ├── Authentication
+ ├── Databases
+ └── Application Architecture
+
+Computer Science
+ ├── DSA
+ ├── OOP
+ ├── Operating Systems
+ └── System Design
 ```
 
-I'm particularly interested in projects where **AI meets real-world software engineering** rather than building models in isolation.
-
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Padmanabhan-2007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=0EA5E9&text_color=64748B" />
+<img src="https://github-readme-stats.vercel.app/api?username=Padmanabhan-2007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=0EA5E9&icon_color=0EA5E9&text_color=64748B" height="170" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Padmanabhan-2007&hide_border=true&background=00000000&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmanabhan-2007&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=0EA5E9&text_color=64748B" height="170" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmanabhan-2007&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0EA5E9&text_color=64748B" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Padmanabhan-2007&hide_border=true&background=00000000&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" height="170" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## Contribution Graph
 
 <div align="center">
 
-<a href="https://github.com/Padmanabhan-2007">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Padmanabhan-2007&bg_color=00000000&color=64748B&line=0EA5E9&point=0EA5E9&area=true&hide_border=true" width="95%" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Padmanabhan-2007&bg_color=00000000&color=64748B&line=0EA5E9&point=0EA5E9&area=true&hide_border=true" width="96%" />
 
 </div>
 
@@ -179,32 +176,9 @@ I'm particularly interested in projects where **AI meets real-world software eng
 
 ## Currently Learning
 
-```text
-Data Structures & Algorithms
-Backend Architecture
-Machine Learning
-System Design
-Database Design
-Cloud & Deployment
-```
-
----
-
-## Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/padmanabhan2007/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:padhusrini2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Padmanabhan-2007">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+`DSA` &nbsp; `System Design` &nbsp; `Machine Learning` &nbsp; `Backend Architecture` &nbsp; `Database Design`
 
 </div>
 
@@ -212,8 +186,10 @@ Cloud & Deployment
 
 <div align="center">
 
-### `Build. Break. Learn. Repeat.`
+### Build. Learn. Iterate.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=100&section=footer" width="100%" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0EA5E9,100:0F172A&section=footer" width="100%" />
 
 </div>
